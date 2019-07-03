@@ -1,22 +1,25 @@
 # main links links
 main:
+  - title: "People"
+    url: /people/
+
+  - title: "Research"
+    url: /research/
+
   - title: "Publications"
-    url: /publications/
+    url: /publications/    
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Codes"
+    url: /codes/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "UTC Databases"
+    url: /databases/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "News"
+    url: /news/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Recruiting"
+    url: /recruiting/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Intranet"
+    url: /intranet/
